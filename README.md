@@ -19,5 +19,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 width="600" src="https://github-readme-stats.vercel.app/api?username=jeka6561&show_icons=true&theme=gruvbox" />
   </a>
+</div>
+
+<div align="center">
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=empotik&layout=compact&langs_count=10&theme=radical)
 </div>
