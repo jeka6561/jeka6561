@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jeka6561&show_icons=true&theme=slateorange"
-      media="(prefers-color-scheme: slateorange)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=jeka6561&show_icons=true&theme=slateorange" />
-  </picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeka6561&layout=compact&langs_count=10&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeka6561&show_icons=true&theme=slateorange" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeka6561&layout=compact&langs_count=10&theme=radical"/>
 </div>
