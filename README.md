@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=empotik&layout=compact&langs_count=10&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeka6561&layout=compact&langs_count=10&theme=radical)
 </div>
