@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jeka6561&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=jeka6561&show_icons=true&theme=slateorange"
       media="(prefers-color-scheme: slateorange)"
     />
     <source
